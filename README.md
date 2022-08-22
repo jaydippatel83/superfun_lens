@@ -1,10 +1,7 @@
 ## Superfun social
 ![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/45895007/185943006-49830dcb-5d4c-40b5-af2b-5dfd89f55055.png)
 
-
-
-
-
+ 
 ## Inspiration 
 If we share a meme on Twitter, we can't access it on Facebook but SuperFun ensures maximum composability as it is powered by Lensprotcol, Filecoin, and Polygon. 
 Meme is a universal language of the Internet and we all know how fast information gets spread through Memes so our aim is to become a goto platform for Meme Artists to generate value for their creativity and brands to create meme contests to crowdsource memes from the best artists and spread a message for their product. 
@@ -12,11 +9,19 @@ Meme is a universal language of the Internet and we all know how fast informatio
 ## What it does
 SuperFun is A social meme app built with Lens Protocol where meme artists get rewarded with crypto for super fun content and brands can create contests to crowdsource memes from the best artists. 
 
-## How we built it 
+## How we built it  
+
+## Transaction for create post on Polygon Mumbai Testnet 
+https://mumbai.polygonscan.com/tx/0x273cb388f42b6a4d5913b12af6c23c1e97318cc2bae7e907768711928d78046f
+
+##Lens Protocol - Created compatible social meme app using open source social graph of Lens protocol. 
+
+##Polygon - Lens protocol uses Polygon sidechain to mint all the posts as NFTs and gives access to the posts to other social apps by indexing the data from the chain using. 
+
+##Spheron: We have used Decentralized cloud app to deploy our dapp.
+https://superfun-lens-demo-cleomh.spheron.app/
 
 ##NFT. Storage - To share meme posts and save the image on IPFS. Save profile NFT metadata on IPFS as everything from comments, and profiles to posts are NFT so IPFS NFT.storage was very helpful to make a truly decentralized social app. 
-##Lens Protocol - Created compatible social meme app using open source social graph of Lens protocol. 
-##Polygon - Lens protocol uses Polygon sidechain to mint all the posts as NFTs and gives access to the posts to other social apps by indexing the data from the chain using. 
 
 -Currently, it is deployed on Testnet. We have created a profile on Lens so need to sign in by connecting wallet.  All the meme posts which get minted through Lens social graph store metadata on IPFS and will be on Polygon blockchain by which meme artists can also claim ownership and proof of their creative work.
 -  To create a meme we need to fill up details like name, and category and select an image, add a relevant hashtag, and post it.  This meme will be posted as NFT in lens protocol terminology it's called publication.
@@ -33,10 +38,6 @@ While creating this app we understood how important 1) Compatibility and 2) Owne
 
 ## What's next for SuperFun
 We aim to be a go to platform for Meme Artists to generate value for their creativity and brands to create meme contests to crowdsource memes from the best artists and spread a message for their product.
-
-
-## Transaction for create post on Polygon Mumbai Testnet 
-https://mumbai.polygonscan.com/tx/0x273cb388f42b6a4d5913b12af6c23c1e97318cc2bae7e907768711928d78046f
 
 ## Homepage
 <img width="1265" alt="Screenshot 2022-08-17 at 6 42 42 PM" src="https://user-images.githubusercontent.com/45895007/185174023-7d98227d-bd91-4fd8-93a0-2cd25977c0bf.png">
