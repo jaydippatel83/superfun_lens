@@ -1,5 +1,6 @@
 ## Superfun social
-![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/45895007/185173456-99fcab6f-56b1-490d-87bd-a5c65b7b8579.png)
+![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/45895007/185943006-49830dcb-5d4c-40b5-af2b-5dfd89f55055.png)
+
 
 
 
